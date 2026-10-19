@@ -1,0 +1,170 @@
+{
+  "input": "C:\\Users\\praveen\\Downloads\\Final IEEE Research Paper (2).docx",
+  "fonts_by_char_count": {
+    "Cambria Math": 194
+  },
+  "direct_run_formatting_runs": 247,
+  "direct_paragraph_formatting_paragraphs": 120,
+  "heading_like_paragraphs_not_heading_style": [
+    {
+      "para_index": 5,
+      "text": "I. Introduction",
+      "style": "Normal"
+    },
+    {
+      "para_index": 10,
+      "text": "II. Literature Review",
+      "style": "Normal"
+    },
+    {
+      "para_index": 13,
+      "text": "Table 1. Literature Foundations Mapped to DRMC",
+      "style": "Normal"
+    },
+    {
+      "para_index": 17,
+      "text": "III. Methodology",
+      "style": "Normal"
+    },
+    {
+      "para_index": 18,
+      "text": "A. Simulation Environment and Data Model",
+      "style": "Normal"
+    },
+    {
+      "para_index": 21,
+      "text": "B. Detection and Coordination Modelling",
+      "style": "Normal"
+    },
+    {
+      "para_index": 23,
+      "text": "C. Evaluation Approach",
+      "style": "Normal"
+    },
+    {
+      "para_index": 25,
+      "text": "IV. System Architecture",
+      "style": "Normal"
+    },
+    {
+      "para_index": 32,
+      "text": "V. Coordination and Detection Models",
+      "style": "Normal"
+    },
+    {
+      "para_index": 33,
+      "text": "A. Multimodal Victim-Detection Confidence Fusion",
+      "style": "Normal"
+    },
+    {
+      "para_index": 37,
+      "text": "B. Nearest-Drone Dispatch Scoring",
+      "style": "Normal"
+    },
+    {
+      "para_index": 41,
+      "text": "C. Battery, Fault and Return-to-Base State Model",
+      "style": "Normal"
+    },
+    {
+      "para_index": 45,
+      "text": "D. Alert Severity and Prioritisation",
+      "style": "Normal"
+    },
+    {
+      "para_index": 49,
+      "text": "VI. Implementation",
+      "style": "Normal"
+    },
+    {
+      "para_index": 50,
+      "text": "A. Frontend Platform",
+      "style": "Normal"
+    },
+    {
+      "para_index": 52,
+      "text": "B. Roles, Missions and Operational Flow",
+      "style": "Normal"
+    },
+    {
+      "para_index": 54,
+      "text": "Table 2. Completed DRMC Module Mapping",
+      "style": "Normal"
+    },
+    {
+      "para_index": 55,
+      "text": "VII. Results and Discussion",
+      "style": "Normal"
+    },
+    {
+      "para_index": 56,
+      "text": "A. Evaluation Setting",
+      "style": "Normal"
+    },
+    {
+      "para_index": 58,
+      "text": "B. Command Dashboard Interface",
+      "style": "Normal"
+    }
+  ],
+  "examples": {
+    "direct_paragraph_formatting": [
+      {
+        "para_index": 1,
+        "text": "An AI-Assisted Command Dashboard for Real-Time Multi-Drone Coordination in Disaster Search-and-Rescue Operations (DRMC)",
+        "style": "Normal"
+      },
+      {
+        "para_index": 3,
+        "text": "Abstract \u2014 When a real disaster response is underway, incident commanders and drone pilots end up bouncing between separ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "text": "Index Terms \u2014 Command and control dashboard, disaster response, multimodal sensor fusion, search and rescue (SAR), situa",
+        "style": "Normal"
+      },
+      {
+        "para_index": 5,
+        "text": "I. Introduction",
+        "style": "Normal"
+      },
+      {
+        "para_index": 6,
+        "text": "Search-and-rescue operations after an earthquake, a flood or a building collapse get decided in minutes, not hours. Dron",
+        "style": "Normal"
+      }
+    ],
+    "direct_run_formatting": [
+      {
+        "para_index": 1,
+        "run_text": "An AI-Assisted Command Dashboard for Real-Time Multi-Drone Coordination in Disas",
+        "style": "Normal"
+      },
+      {
+        "para_index": 3,
+        "run_text": "Abstract \u2014 ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 3,
+        "run_text": "When a real disaster response is underway, incident commanders and drone pilots ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "run_text": "Index Terms \u2014 ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "run_text": "Command and control dashboard, disaster response, multimodal sensor fusion, sear",
+        "style": "Normal"
+      }
+    ]
+  },
+  "notes": [
+    "Direct formatting is not always wrong, but it often causes inconsistent output when templates change.",
+    "Heading-like paragraphs not using Heading styles can break TOC and accessibility."
+  ]
+}
